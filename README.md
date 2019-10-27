@@ -2,9 +2,9 @@
 <!doctype html> <!--this is used to inform a website that the document is a html documeent-->
 <html class="no-js" lang=""> <!-- no-js replaces js when modernizer runs and allows different css rules which depends on javascript. lang is used to set the primary language for the html code  -->
 
-<head>
-  <meta charset="utf-8">
-  <title></title>
+<head> <!-- is a container for a metadata, placed between <html> and <body> this about how the html document will be run -->
+  <meta charset="utf-8"><!--  is used to specify the character encoding for the html document. UTF-8 specifies the character encoding for the unicode -->
+  <title></title> <!-- defines the title of a html document, provides a title for search engine for the website -->
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
