@@ -28,8 +28,8 @@
   <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script> <!-- modernizr is a javascript library that detects hmtl5 and css features in the web browse --> 
    <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"> </script> <!-- SRI is a feature that enables browses to verify that resources they fetcg are not manipulated --> 
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script> <!-- makes html document traversal and manipulation much simpler with an easy to use API that works across multiple browses -->
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+  <script src="js/plugins.js"></script> <!-- allows you to load script resources and demand from any url and not prevent other resources from loading -->
+  <script src="js/main.js"></script> <!-- a call to your application -->
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
