@@ -8,8 +8,8 @@
   <meta name="description" content=""> <!-- describes and summarizes the contents of the page, makes it easier for the user and search engines to understand the purpose of the website. -->
   <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- sets the width of the viewpoint to make sure it matches the width of the device. initial-scale=1 sets the initial zoom level when you visit the page -->
 
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="manifest" href="site.webmanifest"> <!-- A JSON file that tells the browser about the web application and how it should behave when installed on users mobile drive or desktop -->
+  <link rel="apple-touch-icon" href="icon.png"> <!-- makes website look appealing and functional to IOS users -->
   <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="css/normalize.css">
