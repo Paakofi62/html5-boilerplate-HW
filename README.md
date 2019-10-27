@@ -15,10 +15,10 @@
   <link rel="stylesheet" href="css/normalize.css"> <!-- specifies the relationship between the html file and the normalize.css,  the relationship being stylesheet -->
   <link rel="stylesheet" href="css/main.css"> <!-- specifies the relationship between the html file and the main.css, the relationship being stylesheet -->
 
-  <meta name="theme-color" content="#fafafa">
+  <meta name="theme-color" content="#fafafa"> <!-- checks if a single theme-color is specified in the <head>, the cole of the header bar/background color -->
 </head>
 
-<body>
+<body> <!-- defines the document body,contains all the contents of the html documents(text,hyperlinks,images,tables) -->
   <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
