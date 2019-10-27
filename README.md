@@ -12,8 +12,8 @@
   <link rel="apple-touch-icon" href="icon.png"> <!-- makes website look appealing and functional to IOS users -->
   <!-- Place favicon.ico in the root directory -->
 
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/normalize.css"> <!-- specifies the relationship between the html file and the normalize.css,  the relationship being stylesheet -->
+  <link rel="stylesheet" href="css/main.css"> <!-- specifies the relationship between the html file and the main.css, the relationship being stylesheet -->
 
   <meta name="theme-color" content="#fafafa">
 </head>
