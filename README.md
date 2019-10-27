@@ -24,9 +24,9 @@
   <![endif]-->
 
   <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
-  <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
-  <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script>
+  <p>Hello world! This is HTML5 Boilerplate.</p> <!-- represents  a paragraph and the majority of the website content can be find in this line of code --> 
+  <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script> <!-- modernizr is a javascript library that detects hmtl5 and css features in the web browse --> 
+   <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
