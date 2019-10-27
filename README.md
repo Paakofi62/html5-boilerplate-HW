@@ -5,8 +5,8 @@
 <head> <!-- is a container for a metadata, placed between <html> and <body> this about how the html document will be run -->
   <meta charset="utf-8"><!--  is used to specify the character encoding for the html document. UTF-8 specifies the character encoding for the unicode -->
   <title></title> <!-- defines the title of a html document, provides a title for search engine for the website -->
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content=""> <!-- describes and summarizes the contents of the page, makes it easier for the user and search engines to understand the purpose of the website. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- sets the width of the viewpoint to make sure it matches the width of the device. initial-scale=1 sets the initial zoom level when you visit the page -->
 
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
